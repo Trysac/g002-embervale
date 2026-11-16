@@ -16,12 +16,12 @@ status effects, an enemy AI, levels between battles and a saved campaign.
 
 ## Play it
 
-- **In your browser:** [trysac.github.io/3D_Turn_Based_RPG](https://trysac.github.io/3D_Turn_Based_RPG/)
+- **In your browser:** [trysac.github.io/g002-embervale](https://trysac.github.io/g002-embervale/)
 - **On itch.io:** [trysac.itch.io/embervale](https://trysac.itch.io/embervale)
 - **Get the code:** fork this repository, or clone it:
 
   ```bash
-  git clone https://github.com/Trysac/3D_Turn_Based_RPG.git
+  git clone https://github.com/Trysac/g002-embervale.git
   ```
 
 ## Run it
